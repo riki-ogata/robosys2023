@@ -1,0 +1,12 @@
+#!/usr/bin/python3
+# SPDX-FilecopyrightText : 2023 Riki Ogata s20c1705pv@s.chibakoudai.jp
+# SPDX-License-Identifier : GPL-3.0
+
+import sys
+
+ans =0.0
+ 
+for line in sys.stdin:
+     ans += int(line)
+
+print(ans)   
