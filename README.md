@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-func0071 2nd
-=======
 # robosys2023
 ![test](https://github.com/ryuichiueda/robosys2022/actions/workflows/test.yml/badge.svg)
 ↑ここは変更点
