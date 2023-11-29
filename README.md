@@ -1,5 +1,4 @@
 # robosys2023
-ロボットシステム学の練習リポジトリ
 ![test](https://github.com/ryuichiueda/robosys2022/actions/workflows/test.yml/badge.svg)
 ↑ここは変更点
 
