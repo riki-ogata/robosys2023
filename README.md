@@ -5,7 +5,7 @@
 
 ## インストール方法
 ```
-$ git clone git@github.com:riki-ogata/robosys2023.git
+$ git clone https://github.com/riki-ogata/robosys2023.git
 $ cd robosys2023
 $ ls
 LICENSE  README.md  plus  test.bash
