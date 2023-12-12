@@ -1,5 +1,5 @@
 #!/bin/bash
-# SPDX-FileCopyrightText: 2023 Riki Ogata s20c1705pv@s.chibakoudai.jp
+# SPDX-FileCopyrightText: 2023 Hinata Sakuma
 # SPDX-License-Identifier: BSD-3-Clause
 
 ng () {
