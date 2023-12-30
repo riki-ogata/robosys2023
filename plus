@@ -8,7 +8,7 @@ ans1 = 0
 #ans2 =0
 
 for line in sys.stdin:
-     ans1 += int(line)
+     ans1 -= int(line)
     # ans2 -= int(line)
 
 print(ans1)
