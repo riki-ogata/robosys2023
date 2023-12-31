@@ -1,7 +1,7 @@
 # robosys2023
 ![test](https://github.com/riki-ogata/robosys2023/actions/workflows/test.yml/badge.svg)
 
-本リポジトリは, ロボットシステム学2023において作成したものである.
+本リポジトリは, ロボットシステム学2023において作成したものであり, 取り組んだ課題の保存, 共有を行うためのものである.
 
 ## インストール方法
 ```
