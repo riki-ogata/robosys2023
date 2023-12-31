@@ -11,11 +11,13 @@ $ ls
 LICENSE  README.md  plus  test.bash
 ```
 ## plusコマンド
+標準入力から読み込んだ数字の足し算と引き算をおこなう
 ```
 $ seq 5 | ./plus
 15.0             #すべて足し算
 -15.0            #すべて引き算
 ```
+
 ## 必要なソフトウェア
 * python　3.7～3.10
 * Ubuntu 20.04
