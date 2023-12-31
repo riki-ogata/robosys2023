@@ -17,9 +17,9 @@ out=$(echo あ |./plus)
 [ "$?" = 1 ]      || ng ${LINENO}
 [ "${out}" = "" ] || ng ${LINENO}
 
-out=$(echo  |./plus)
+out=$(echo |./plus)
 [ "$?" = 1 ]      || ng ${LINENO}
 [ "${out}" = "" ] || ng ${LINENO}
 
-[ $res -eq 0 ] && echo OK
+[ $res -eq 0 ] && echo "All tests passed"
 exit $res
