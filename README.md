@@ -19,7 +19,7 @@ $ seq 5 | ./plus
 ```
 
 ## 必要なソフトウェア
-* python　3.7～3.10
+* python　3.8
 * Ubuntu 20.04
 ## テスト環境
 * Ubuntu 20.04
